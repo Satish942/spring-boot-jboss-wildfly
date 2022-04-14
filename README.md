@@ -9,3 +9,4 @@ This is a sample project that shows how to deploy a `war` file with a Spring Boo
 You need to have a JDK 11 installed in your system. Then, run the script `docker-build.sh` (or the commands inside if you're in Windows) and you will generate an image with a sample Spring Boot application packaged in a war file and deployed to Wildfly and Tomcat.
 
 The complete instructions [are here](https://thepracticaldeveloper.com/2017/09/02/how-to-deploy-a-spring-boot-war-in-wildfly-jboss/).
+http://localhost:8080/jboss-wildfly-demo-1.0.0-SNAPSHOT/hola/hola
